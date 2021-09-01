@@ -2,5 +2,5 @@
 
 ## [Lievitati](Lievitati)
 
-- [Pizza](Lievitati/Pizza.md)
 - [Focaccia Genovese](Lievitati/Focaccia-Genovese.md)
+- [Pizza](Lievitati/Pizza.md)
