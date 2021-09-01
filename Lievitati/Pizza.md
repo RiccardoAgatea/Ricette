@@ -29,3 +29,7 @@ Prelevare un bicchiere d'acqua dalla dose indicata, scaldarlo leggermente e scio
 Nel frattempo preparare il condimento: tagliare la mozzarella a dadini o a straccetti, e farla asciugare del liquido in eccesso. Mescolare in una ciotola il pomodoro con un filo d'olio ed un pizzico di sale, aggiungendo pepe ed odori (basilico od origano) a piacere.
 
 Quando la pasta ha triplicato di volume, stendere le due palline in due cerchi del diametro di circa 30cm, lasciando il contorno più spesso. Stendere il pomodoro condito al centro ed infornare a 250° per 10-15 minuti. A metà cottura, estrarre e disporre la mozzarella sulla superficie delle pizze.
+
+***
+
+*[Indice](../Readme.md)*
