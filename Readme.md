@@ -1,12 +1,12 @@
 # Indice
 
-## [Lievitati](Lievitati)
+## [Lievitati](./Lievitati)
 
-- [Focaccia Genovese](Lievitati/Focaccia-Genovese.md)
-- [Pizza](Lievitati/Pizza.md)
+- [Focaccia Genovese](./Lievitati/Focaccia-Genovese.md)
+- [Pizza](./Lievitati/Pizza.md)
 
-## [Dolci](Dolci)
+## [Dolci](./Dolci)
 
-### [Creme](Dolci/Creme)
+### [Creme](./Dolci/Creme)
 
-- [Crema Diplomatica](Dolci/Creme/Crema-Diplomatica.md)
+- [Crema Diplomatica](./Dolci/Creme/Crema-Diplomatica.md)

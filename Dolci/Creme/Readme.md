@@ -1,6 +1,6 @@
 # Creme
 
-- [Crema Diplomatica](Crema-Diplomatica.md)
+- [Crema Diplomatica](./Crema-Diplomatica.md)
 
 ***
 
