@@ -8,3 +8,5 @@
 ## [Dolci](Dolci)
 
 ### [Creme](Dolci/Creme)
+
+- [Crema Diplomatica](Dolci/Creme/Crema-Diplomatica.md)
