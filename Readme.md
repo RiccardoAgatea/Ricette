@@ -1,3 +1,6 @@
+---
+title: "Indice | Ricette"
+---
 # Indice
 
 ## [Lievitati](./Lievitati)

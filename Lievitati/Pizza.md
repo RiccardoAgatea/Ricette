@@ -1,3 +1,6 @@
+---
+title: "Pizza | Lievitati | Ricette"
+---
 # Pizza
 
 ## Ingredienti *per due pizze del diametro di 30cm*

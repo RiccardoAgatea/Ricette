@@ -1,3 +1,6 @@
+---
+title: "Dolci | Ricette"
+---
 # Dolci
 
 ## [Creme](./Creme)
