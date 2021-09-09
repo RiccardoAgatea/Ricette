@@ -12,6 +12,8 @@ title: "Indice | Ricette"
 
 ### [Biscotti](./Dolci/Biscotti)
 
+- [Biscotti al Vino](./Dolci/Biscotti/Biscotti-al-Vino.md)
+
 ### [Creme](./Dolci/Creme)
 
 - [Crema Diplomatica](./Dolci/Creme/Crema-Diplomatica.md)
