@@ -7,6 +7,7 @@ title: "Dolci | Ricette"
 
 - [Biscotti al Vino](./Biscotti/Biscotti-al-Vino.md)
 - [Frollini](./Biscotti/Frollini.md)
+- [Galani](./Biscotti/Galani.md)
 
 ## [Creme](./Creme)
 

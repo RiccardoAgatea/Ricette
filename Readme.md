@@ -9,6 +9,7 @@ title: "Indice | Ricette"
 
 - [Biscotti al Vino](./Dolci/Biscotti/Biscotti-al-Vino.md)
 - [Frollini](./Dolci/Biscotti/Frollini.md)
+- [Galani](./Dolci/Biscotti/Galani.md)
 
 ### [Creme](./Dolci/Creme)
 
