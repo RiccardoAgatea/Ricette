@@ -10,6 +10,8 @@ title: "Indice | Ricette"
 
 ## [Dolci](./Dolci)
 
+### [Biscotti](./Dolci/Biscotti)
+
 ### [Creme](./Dolci/Creme)
 
 - [Crema Diplomatica](./Dolci/Creme/Crema-Diplomatica.md)
