@@ -1,5 +1,5 @@
 ---
-title: "Biscotti al Vino | Creme | Dolci | Ricette"
+title: "Biscotti al Vino | Biscotti | Dolci | Ricette"
 ---
 # Biscotti al Vino
 
