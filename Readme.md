@@ -3,13 +3,6 @@ title: "Indice | Ricette"
 ---
 # Indice
 
-## [Lievitati](./Lievitati)
-
-- [Focaccia Genovese](./Lievitati/Focaccia-Genovese.md)
-- [Pane](./Lievitati/Pane.md)
-- [Panini al Latte](./Lievitati/Panini-al-Latte.md)
-- [Pizza](./Lievitati/Pizza.md)
-
 ## [Dolci](./Dolci)
 
 ### [Biscotti](./Dolci/Biscotti)
@@ -19,3 +12,10 @@ title: "Indice | Ricette"
 ### [Creme](./Dolci/Creme)
 
 - [Crema Diplomatica](./Dolci/Creme/Crema-Diplomatica.md)
+
+## [Lievitati](./Lievitati)
+
+- [Focaccia Genovese](./Lievitati/Focaccia-Genovese.md)
+- [Pane](./Lievitati/Pane.md)
+- [Panini al Latte](./Lievitati/Panini-al-Latte.md)
+- [Pizza](./Lievitati/Pizza.md)
