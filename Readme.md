@@ -7,6 +7,7 @@ title: "Indice | Ricette"
 
 - [Focaccia Genovese](./Lievitati/Focaccia-Genovese.md)
 - [Pane](./Lievitati/Pane.md)
+- [Panini al Latte](./Lievitati/Panini-al-Latte.md)
 - [Pizza](./Lievitati/Pizza.md)
 
 ## [Dolci](./Dolci)
