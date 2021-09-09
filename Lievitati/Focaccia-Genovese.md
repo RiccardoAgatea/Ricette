@@ -29,4 +29,4 @@ Passata l'ora di lievitazione, stendere la pasta sulla teglia (che deve essere a
 
 ***
 
-*[Indice](../Readme.md)*
+*[Indice](..)*

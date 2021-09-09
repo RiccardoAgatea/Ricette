@@ -8,4 +8,4 @@ title: "Lievitati | Ricette"
 
 ***
 
-*[Indice](../Readme.md)*
+*[Indice](..)*

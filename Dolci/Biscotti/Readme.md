@@ -5,4 +5,4 @@ title: "Biscotti | Dolci | Ricette"
 
 ***
 
-*[Indice](../../Readme.md)*
+*[Indice](../..)*

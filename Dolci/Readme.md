@@ -11,4 +11,4 @@ title: "Dolci | Ricette"
 
 ***
 
-*[Indice](../Readme.md)*
+*[Indice](..)*

@@ -23,4 +23,4 @@ Semimontare la panna: deve risultare morbida e lucida, ma non deve essere rigida
 
 ***
 
-*[Indice](../../Readme.md)*
+*[Indice](../..)*

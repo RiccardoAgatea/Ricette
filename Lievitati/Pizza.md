@@ -35,4 +35,4 @@ Quando la pasta ha triplicato di volume, stendere le due palline in due cerchi d
 
 ***
 
-*[Indice](../Readme.md)*
+*[Indice](..)*

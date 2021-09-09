@@ -7,4 +7,4 @@ title: "Creme | Dolci | Ricette"
 
 ***
 
-*[Indice](../../Readme.md)*
+*[Indice](../..)*
