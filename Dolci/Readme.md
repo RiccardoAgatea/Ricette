@@ -3,6 +3,8 @@ title: "Dolci | Ricette"
 ---
 # Dolci
 
+## [Basi](./Basi)
+
 ## [Biscotti](./Biscotti)
 
 - [Biscotti al Vino](./Biscotti/Biscotti-al-Vino.md)

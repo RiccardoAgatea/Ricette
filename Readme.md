@@ -5,6 +5,8 @@ title: "Indice | Ricette"
 
 ## [Dolci](./Dolci)
 
+### [Basi](./Dolci/Basi)
+
 ### [Biscotti](./Dolci/Biscotti)
 
 - [Biscotti al Vino](./Dolci/Biscotti/Biscotti-al-Vino.md)
