@@ -7,6 +7,8 @@ title: "Indice | Ricette"
 
 ### [Basi](./Dolci/Basi)
 
+- [Pasta Biscotto](./Dolci/Basi/Pasta-Biscotto.md)
+
 ### [Biscotti](./Dolci/Biscotti)
 
 - [Biscotti al Vino](./Dolci/Biscotti/Biscotti-al-Vino.md)

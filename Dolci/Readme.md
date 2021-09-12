@@ -5,6 +5,8 @@ title: "Dolci | Ricette"
 
 ## [Basi](./Basi)
 
+- [Pasta Biscotto](./Basi/Pasta-Biscotto.md)
+
 ## [Biscotti](./Biscotti)
 
 - [Biscotti al Vino](./Biscotti/Biscotti-al-Vino.md)
