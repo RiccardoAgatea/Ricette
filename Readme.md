@@ -26,3 +26,5 @@ title: "Indice | Ricette"
 - [Pane](./Lievitati/Pane.md)
 - [Panini al Latte](./Lievitati/Panini-al-Latte.md)
 - [Pizza](./Lievitati/Pizza.md)
+
+## [Salati](./Salati)
