@@ -18,6 +18,7 @@ title: "Indice | Ricette"
 ### [Creme](./Dolci/Creme)
 
 - [Crema Diplomatica](./Dolci/Creme/Crema-Diplomatica.md)
+- [Cioccolata Calda](./Dolci/Creme/Cioccolata-Calda.md)
 
 ## [Lievitati](./Lievitati)
 

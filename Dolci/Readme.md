@@ -16,6 +16,7 @@ title: "Dolci | Ricette"
 ## [Creme](./Creme)
 
 - [Crema Diplomatica](./Creme/Crema-Diplomatica.md)
+- [Cioccolata Calda](./Creme/Cioccolata-Calda.md)
 
 ***
 
