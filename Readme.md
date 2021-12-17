@@ -30,3 +30,5 @@ title: "Indice | Ricette"
 ## [Salati](./Salati)
 
 ### [Salse](./Salati/Salse)
+
+- [Salsa al Curry](./Salati/Salse/Salsa-al-Curry.md)
