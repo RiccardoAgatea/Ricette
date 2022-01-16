@@ -5,11 +5,11 @@ title: "Cioccolata Calda | Creme | Dolci | Ricette"
 
 ## Ingredienti *per una tazza*
 
-- 250ml latte intero
-- 25g cacao amaro in polvere
-- 20g amido di mais
+- 300ml latte intero
+- 10g cacao amaro in polvere
+- 15g amido di mais
   - Per una cioccolata calda più densa aumentare la dose di amido. Con 25g la consistenza si avvicina a quella di un dolce al cucchiaio.
-- 30g zucchero
+- 15g zucchero
 
 ## Procedimento
 
