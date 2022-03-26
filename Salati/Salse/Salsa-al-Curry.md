@@ -7,7 +7,7 @@ title: "Salsa al Curry | Salse | Salati | Ricette"
 
 - 125ml latte intero
 - 10g amido di mais
-- 4 cucchiaini di curry
+- 2 cucchiaini di curry
 - Un pizzico di paprika forte (opzionale)
 
 ## Procedimento
